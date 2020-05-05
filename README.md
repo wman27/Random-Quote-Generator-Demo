@@ -3,8 +3,6 @@ This project is the first project I created using jQuery. It displays a quote an
 
 To see a demo: [Link](https://wman27.github.io/Random-Quote-Generator-Demo/)  
 
-To see the source: [Link](https://github.com/wman27/Random-Quote-Generator-Demo)
-
 ### Briefing
 The requirements this project must satisfy are:
 
